@@ -1,0 +1,24 @@
+body {
+  margin: 20px;
+  padding: 20px;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: lightgray;
+}
+
+.form-group {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.Navbtn {
+  display: block;
+  width: 10%;
+}
+
+hr {
+  border-top: solid 5px;
+  width: 300px;
+}
